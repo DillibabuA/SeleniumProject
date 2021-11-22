@@ -4,7 +4,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class Assert {//pull the project  now update   its time to pull
+public class Assert {//pull the project  now update   its time to pull  to which
 
 	public static void main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method stub
