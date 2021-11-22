@@ -1,7 +1,7 @@
 //enhance the if loop using didvide by 2 and not divisible by 2
 import java.util.ArrayList;
 public class CoreJava {
-
+//willl do
 	public static void main(String[] args) {
 		int[] arr2 = {1,2,4,5,6,7,8,9,10,122};
 		for(int i=0;i<arr2.length;i++)
