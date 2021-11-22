@@ -7,7 +7,7 @@ System.out.println("hello world");
 	}//nkbbbkbk
 
 }
-import java.util.HashMap;
+import java.util.HashMap;//nkn nbjb
 public class CollectionHm {
 
 	public static void main(String[] args) {
