@@ -6,7 +6,7 @@ public class ReplaceCharacter {
 		String str = "java programe";
 		 
         //vhjgjgjbj
-        int index = 1;
+        int index = 1;//jghhfhghkghjk
         char ch = 'c';
         System.out.println("before replacing the String = " + str);
  
