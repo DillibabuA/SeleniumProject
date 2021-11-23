@@ -5,7 +5,7 @@ public class ReplaceCharacter {
 		// TODO Auto-generated method stub
 		String str = "java programe";
 		 
-        
+        //vhjgjgjbj
         int index = 1;
         char ch = 'c';
         System.out.println("before replacing the String = " + str);
